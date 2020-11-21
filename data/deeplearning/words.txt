@@ -1,0 +1,74 @@
+{
+  "breach": [
+    "breech",
+    "brch",
+    "brach",
+    "breach"
+  ],
+  "murder": [
+    "murdur",
+    "meurder",
+    "meurdur",
+    "murder"
+  ],
+  "collection": [
+    "colection",
+    "collection",
+    "collec",
+    "colec"
+  ],
+  "addons": [
+    "workshop",
+    "whorkshop",
+    "workshp",
+    "worksh",
+    "adons",
+    "addon",
+    "adons",
+    "adon"
+  ],
+  "fondateur": [
+    "fondater",
+    "fonda",
+    "owner",
+    "founder",
+    "fondateur"
+  ],
+  "qui": [
+    "ki",
+    "qi"
+  ],
+  "textures": [
+    "textures",
+    "texturs",
+    "textur",
+    "css"
+  ],
+  "comment": [
+    "comment",
+    "commen",
+    "comen",
+    "kommen",
+    "komen"
+  ],
+  "gateau": [
+    "gâteau",
+    "gateau",
+    "gâto",
+    "gato"
+  ],
+  "aubergine": [
+    "aubergine",
+    "aubergin",
+    "abergine",
+    "abergin",
+    "auberjine"
+  ],
+  "serveur": [
+    "serveur",
+    "serveurs",
+    "server",
+    "serv",
+    "servre"
+  ]
+}

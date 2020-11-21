@@ -1,0 +1,8 @@
+{
+  "comment": {
+    "textures": "{article=css_content}",
+    "gateau": {
+      "aubergine": "{article=gateau_aubergine}"
+    }
+  }
+}

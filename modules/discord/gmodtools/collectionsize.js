@@ -1,0 +1,11 @@
+class CollectionSize {
+    constructor()
+    {
+        
+    }
+
+    handle() {
+        
+    }
+
+}

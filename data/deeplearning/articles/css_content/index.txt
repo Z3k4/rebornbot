@@ -1,0 +1,30 @@
+Voici comment télécharger les textures CSS
+Télécharges d'abord cette archive : https://mega.nz/#!aIYHRYgS!z7ASATWZaxfkiMXzTjgiyEbxvE7ikR9CiVYvOwZqqTM
+https://rebornoo.mtxserv.com/bot/help/css_content/1_telecharger_archive.gif
+
+Une fois ceci fait, ouvres ton  répertoire Garry's mod comme ceci :
+https://rebornoo.mtxserv.com/bot/help/css_content/2_ouvrir_dossier_gmod.gif
+
+Va dans le dossier addons : 
+https://rebornoo.mtxserv.com/bot/help/css_content/3_aller_dans_addons.gif
+
+
+Déplaces ton archive dans le dossier Garry's Mod précédemment ouvert, puis extrait le dans ce même dossier
+https://rebornoo.mtxserv.com/bot/help/css_content/4_deplacer_extraire_fichier.gif
+
+Pour finir, renomme le dossier CSS_Content2018 en css_content_addon (ceci est facultatif),
+Supprimer l'archive
+
+/!\ Assures toi que quand tu cliques sur css_content_addons tu vois directement s'afficher au moins tout ces dossiers (si il y en a quelques uns en plus, ce n'est pas grave) :
+
+materials
+models
+particles
+scripts
+sound
+
+Des gifs sont joints à cette aide pour que mes explications soient le plus clairs possibles
+
+https://rebornoo.mtxserv.com/bot/help/css_content/5_renommer_supprimer_fichier.gif
+
+
